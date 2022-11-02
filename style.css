@@ -8,6 +8,10 @@
     background-size: 100%;
 }
 
+img {
+    background: url('https://p.kindpng.com/picc/s/5-54782_clock-face-clip-art-clipart-clock-hd-png.png') no-repeat;
+    position: absolute;
+}
 #hour, #minute, #second{
     position: absolute;
     background: black;
