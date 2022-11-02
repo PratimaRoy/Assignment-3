@@ -37,7 +37,11 @@
     
 }
 
-.body {
-    background-image: url("https://wallpaperaccess.com/full/7335599.jpg");
-    background-color: #cccccc;
-  }
+body{
+background-image:url('https://wallpaperaccess.com/full/7335599.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+min-height: 100%;
+}
