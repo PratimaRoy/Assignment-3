@@ -5,7 +5,8 @@
     height: 40vw;
     width: 40vw; 
     background: url('https://png.pngitem.com/pimgs/s/5-54789_blank-clock-templates-for-teaching-time-clock-black.png') no-repeat;
-    background-size: 100%;
+    background-size: 50%;
+    opacity: 0.5;
 }
 
 #hour, #minute, #second{
